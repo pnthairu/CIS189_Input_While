@@ -3,7 +3,7 @@
 ""
 Program: input_while.py
 Author: Paul Thairu
-Last date modified: 06/08/2020
+Last date modified: 06/14/2020
 
 Write a small script, input_while.py that prompts the user for numeric input between 1 and 100.
 Prompt the user until the input is in the correct range.
